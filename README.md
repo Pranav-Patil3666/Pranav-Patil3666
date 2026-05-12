@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I'm currently working on<br>Real-time audio forensics pipelines and scalable event-driven backend systems — because detecting AI-generated voices and keeping microservices from falling apart are equally dramatic.<br><br>🤝 I'm looking to collaborate on<br>ML-powered applications, backend systems with real-world impact, or anything that sits at the intersection of deep learning and production-grade engineering. Bonus points if it's weird and unsolved.<br><br><br>🌱 I'm currently learning<br>Advanced MLOps, system design patterns for distributed architectures, and how to explain to non-tech people why "just adding more servers" isn't always the answer.<br><br>💬 Ask me about<br>ML pipelines, audio deep learning, RESTful API design, event-driven architecture, or why SMOTE is genuinely underrated in imbalanced datasets.<br><br>⚡ Fun fact<br>I've coordinated an alumni meet for 500+ people and trained neural nets — turns out debugging crowd logistics and vanishing gradients require the same level of patience.<br>
 
 
